@@ -1,0 +1,1 @@
+start %USERPROFILE%\Documents\"Virus (Only Open In VM!!!).exe"
