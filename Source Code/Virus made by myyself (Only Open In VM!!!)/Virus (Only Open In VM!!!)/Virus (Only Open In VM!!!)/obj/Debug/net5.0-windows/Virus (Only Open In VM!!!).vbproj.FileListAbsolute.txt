@@ -1,0 +1,41 @@
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).exe
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).deps.json
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).runtimeconfig.json
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).runtimeconfig.dev.json
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).dll
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\ref\Virus (Only Open In VM!!!).dll
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).pdb
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus__Only_Open_In_VM____.Form1.resources
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus__Only_Open_In_VM____.Form2.resources
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus__Only_Open_In_VM____.Form3.resources
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus__Only_Open_In_VM____.Form4.resources
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).vbproj.GenerateResource.cache
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).GeneratedMSBuildEditorConfig.editorconfig
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).AssemblyInfoInputs.cache
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).AssemblyInfo.vb
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).vbproj.CoreCompileInputs.cache
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).dll
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\ref\Virus (Only Open In VM!!!).dll
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).pdb
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).genruntimeconfig.cache
+D:\Disk C\Users\Bill\source\repos\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).vbprojAssemblyReference.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).exe
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).deps.json
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).runtimeconfig.json
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).runtimeconfig.dev.json
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).dll
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\ref\Virus (Only Open In VM!!!).dll
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\bin\Debug\net5.0-windows\Virus (Only Open In VM!!!).pdb
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus__Only_Open_In_VM____.Form1.resources
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus__Only_Open_In_VM____.Form2.resources
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus__Only_Open_In_VM____.Form3.resources
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus__Only_Open_In_VM____.Form4.resources
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).vbproj.GenerateResource.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).GeneratedMSBuildEditorConfig.editorconfig
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).AssemblyInfoInputs.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).AssemblyInfo.vb
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).vbproj.CoreCompileInputs.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).dll
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\ref\Virus (Only Open In VM!!!).dll
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).pdb
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus (Only Open In VM!!!)\Virus (Only Open In VM!!!)\obj\Debug\net5.0-windows\Virus (Only Open In VM!!!).genruntimeconfig.cache

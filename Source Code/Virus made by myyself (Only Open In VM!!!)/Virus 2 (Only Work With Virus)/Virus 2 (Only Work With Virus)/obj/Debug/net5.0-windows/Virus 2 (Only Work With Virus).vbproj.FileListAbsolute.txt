@@ -1,0 +1,35 @@
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).exe
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).deps.json
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).runtimeconfig.json
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).runtimeconfig.dev.json
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).dll
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\ref\Virus 2 (Only Work With Virus).dll
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).pdb
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus_2__Only_Work_With_Virus_.Form1.resources
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).vbproj.GenerateResource.cache
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).GeneratedMSBuildEditorConfig.editorconfig
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).AssemblyInfoInputs.cache
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).AssemblyInfo.vb
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).vbproj.CoreCompileInputs.cache
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).dll
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\ref\Virus 2 (Only Work With Virus).dll
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).pdb
+D:\Disk C\Users\Bill\source\repos\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).genruntimeconfig.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).exe
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).deps.json
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).runtimeconfig.json
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).runtimeconfig.dev.json
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).dll
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\ref\Virus 2 (Only Work With Virus).dll
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\bin\Debug\net5.0-windows\Virus 2 (Only Work With Virus).pdb
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).vbprojAssemblyReference.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus_2__Only_Work_With_Virus_.Form1.resources
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).vbproj.GenerateResource.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).GeneratedMSBuildEditorConfig.editorconfig
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).AssemblyInfoInputs.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).AssemblyInfo.vb
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).vbproj.CoreCompileInputs.cache
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).dll
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\ref\Virus 2 (Only Work With Virus).dll
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).pdb
+D:\Disk C\Users\Bill\source\repos\Virus made by myyself (Only Open In VM!!!)\Virus 2 (Only Work With Virus)\Virus 2 (Only Work With Virus)\obj\Debug\net5.0-windows\Virus 2 (Only Work With Virus).genruntimeconfig.cache
